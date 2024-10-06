@@ -1,8 +1,8 @@
-# 🏄‍♂️ Forrest Knight
+# 👨‍💻 Faris Farhan
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Undergraduate Computer Science Student`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+Greetings everyone! My name is Faris and I'm currently in my 3rd year pursuing a degree in Computer Science, Pertamina University. I'm a Cyber Security enthusiast but also open to learning other aspects of the programming world such as Artificial Intelligence and Machine Learning. Exploring the world is my dream and my motto is, "Write your own script, and create your own ending."
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -15,7 +15,6 @@ I'm an indie full-stack developer and content creator building my version of the
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
 
 ### 🧰 Languages and Tools
 
